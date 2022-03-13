@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alex C.
 - 👀 I’m interested in Frontend dev especially in JavaScript
 - 🌱 I’m currently developing my HTML, CSS, JavaScript and React skills.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me :
     - Phone number : +40760941101
     - email : alexandru.ciuta.21@gmail.com
